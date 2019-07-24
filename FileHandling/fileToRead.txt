@@ -1,0 +1,1 @@
+This file will be read by node js core module fs.
