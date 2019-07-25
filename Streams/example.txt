@@ -1,0 +1,1 @@
+This data will be inserted to a new file synchronously by fs module of Nodejs.
